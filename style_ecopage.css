@@ -1,0 +1,38 @@
+
+.image{
+    height:400px;
+    margin: auto;
+
+}
+.btn{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.product-grid:hover{
+    box-shadow: 0 12px 5px rgba(0, 0,0,0.1 ) 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+.container2{
+    height: 300px;
+    position: center;
+    padding-top: 30px;
+}
+.imgsec-2{
+    height: 150px;
+    width:150px;
+}
+.product-grid-2{
+    padding-top: 1.5em;
+    border:1px solid grey;
+    border-radius: 0.5px solid grey;
+}
+.product-grid-2 h1{
+    font-size: 15px;
+    padding-top: 30px;
+}
+.product-grid-2 h2{
+    font-size: 15px;
+}
+.product-grid-2:hover{
+    box-shadow: 0 12px 4px 0;
+}
